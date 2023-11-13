@@ -1,4 +1,3 @@
-PS-Ganegoda-REAME.md
 <h1 align="center" style="color: #000080">Hi 👋, I'm Piumi Saranga</h1>
 <h3 align="center" style="color: #000080">A passionate frontend developer from Sri Lanka</h3>
 
@@ -84,4 +83,3 @@ PS-Ganegoda-REAME.md
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-ganegoda&theme=dark" alt="ps-ganegoda" />
 </p>
-
