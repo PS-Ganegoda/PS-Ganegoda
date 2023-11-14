@@ -80,14 +80,27 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ganegoda&layout=compact&hide=html&theme=dark" alt="ps-ganegoda" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ps-ganegoda&show_icons=true&locale=en" alt="ps-ganegoda" /></p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ps-ganegoda&show_icons=true&locale=en&theme=dark" alt="ps-ganegoda" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-ganegoda&" alt="ps-ganegoda" /></p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-ganegoda&theme=dark" alt="ps-ganegoda" />
-</p>
+
+
+<h3 align="center">GitHub Stats</h3>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=ps-ganegoda&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ps-ganegoda&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ps-ganegoda&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=ps-ganegoda&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
+|---|---|---|
+
+---
+|[![](https://github-readme-activity-graph.vercel.app/graph?username=ps-ganegoda&theme=github-compact)](https://github.com/ps-ganegoda/github-readme-activity-graph)|
+|---|
+
+  ---
+  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ps-ganegoda&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ps-ganegoda&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ps-ganegoda&theme=github_dark)|
+  |---|---|---|
+
+</div>
