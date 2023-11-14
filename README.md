@@ -80,16 +80,12 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ps-ganegoda&show_icons=true&locale=en" alt="ps-ganegoda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-ganegoda&" alt="ps-ganegoda" /></p>
-
-
 
 <h3 align="center">GitHub Stats</h3>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=ps-ganegoda&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 ---
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ps-ganegoda&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ps-ganegoda&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=ps-ganegoda&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
