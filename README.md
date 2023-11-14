@@ -16,7 +16,7 @@
 <h3 align="center" style="color: #008080">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/piumi-saranga-ganegoda-bb1563242" target="blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/Piumi Saranga Ganegoda" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piumi ganegoda" height="30" width="40" />
   </a>
   <a href="https://fb.com/piumi" target="blank">
