@@ -1,9 +1,6 @@
 <h1 align="center" style="color: #000080">Hi 👋, I'm Piumi Saranga</h1>
 <h3 align="center" style="color: #000080">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ps-ganegoda&label=Profile%20views&color=0e75b6&style=flat" alt="ps-ganegoda" />
-</p>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
