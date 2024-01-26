@@ -3,8 +3,7 @@
 
 
 <p align="center">
- <img alt="Coding" width="400"p src="  https://iconscout.com/lottie-animation/female-web-developer-7362399"> 
-
+    <img alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 </p>
 
 <h4 align="center">👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
