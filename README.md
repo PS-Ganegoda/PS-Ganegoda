@@ -3,8 +3,10 @@
 
 
 <p align="center">
-    <img alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+    <img alt="Coding" class="img" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 </p>
+
+
 
 <h4 align="center">👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
 
