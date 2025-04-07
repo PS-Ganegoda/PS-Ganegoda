@@ -8,13 +8,13 @@
 
 
 
-<h4 align="center">👨‍💻 I am an undergraduate student at the University of Colombo School of Computing, pursuing a B.Sc. in Computer Science. Throughout my academic journey, I have built a strong foundation in software development, critical thinking, and problem-solving.
+<h5 align="center">I am an undergraduate student at the University of Colombo School of Computing, pursuing a B.Sc. in Computer Science. Throughout my academic journey, I have built a strong foundation in software development, critical thinking, and problem-solving.
 
 Currently, I am gaining valuable industry exposure at Paraqum Technologies, where I serve as both a Software Engineering Intern and a Quality Assurance Intern. These dual roles have allowed me to experience the complete software development lifecycle — from designing user-friendly interfaces to ensuring software quality through meticulous testing and close collaboration with development teams.
 
 I have also been actively involved in several clubs and societies, holding various positions that have helped me expand my network and grow both personally and professionally. These experiences have enriched my leadership, communication, and teamwork skills.
 
-I am continuously seeking new opportunities to enhance my skill set and make a meaningful contribution to the IT industry. With a deep passion for Quality Assurance, I aspire to deliver software solutions that are not only innovative but also reliable and of the highest quality.</h4>
+I am continuously seeking new opportunities to enhance my skill set and make a meaningful contribution to the IT industry. With a deep passion for Quality Assurance, I aspire to deliver software solutions that are not only innovative but also reliable and of the highest quality.</h5>
 
 <p align="center">📫 How to reach me <strong>piumisarangag@gmail.com</strong></p>
 
