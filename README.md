@@ -10,22 +10,14 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-<style>
-  .intro-text {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    font-size: 16px;
-    line-height: 1.8;
-    color: #333;
-  }
-</style>
+
 
 <div class="intro-text">
   <h4>👋 Hi there! I'm <strong>Piumi Ganegoda</strong>, an enthusiastic and detail-oriented <strong>Associate Quality Assurance Engineer at Eleos Web Tech</strong>, currently pursuing a <strong>B.Sc. in Computer Science</strong> at the <strong>University of Colombo School of Computing</strong>.</h4>
 
-  <p>🔍 I have a strong passion for both <strong>software development</strong> and <strong>software quality assurance</strong>, with a solid academic foundation in programming, system design, and problem-solving. My current role allows me to work closely with development teams, contributing to delivering high-quality and user-centric software products.</p>
+  <p>I have a strong passion for both <strong>software development</strong> and <strong>software quality assurance</strong>, with a solid academic foundation in programming, system design, and problem-solving. My current role allows me to work closely with development teams, contributing to delivering high-quality and user-centric software products.</p>
 
-  <p>🌱 I'm always exploring new ways to enhance software reliability and usability. With a deep commitment to quality, I aim to make meaningful contributions to the tech industry by building robust and impactful digital solutions.</p>
+  <p>I'm always exploring new ways to enhance software reliability and usability. With a deep commitment to quality, I aim to make meaningful contributions to the tech industry by building robust and impactful digital solutions.</p>
 </div>
 
 <p align="center"><strong>📫 How to reach me: </strong>piumisarangag@gmail.com</p>
