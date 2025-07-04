@@ -8,24 +8,39 @@
 
 
 
-<h4 align="center">👋 Hi there! I'm Piumi Ganegoda, an enthusiastic and detail-oriented Associate Quality Assurance Engineer at Eleos Web Tech, currently pursuing a B.Sc. in Computer Science at the University of Colombo School of Computing.
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-🔍 I have a strong passion for both software development and software quality assurance, with a solid academic foundation in programming, system design, and problem-solving. My current role allows me to work closely with development teams, contributing to delivering high-quality and user-centric software products.
+<style>
+  .intro-text {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #333;
+  }
+</style>
 
-🌱 I'm always exploring new ways to enhance software reliability and usability. With a deep commitment to quality, I aim to make meaningful contributions to the tech industry by building robust and impactful digital solutions.</h4>
+<div class="intro-text">
+  <h4>👋 Hi there! I'm <strong>Piumi Ganegoda</strong>, an enthusiastic and detail-oriented <strong>Associate Quality Assurance Engineer at Eleos Web Tech</strong>, currently pursuing a <strong>B.Sc. in Computer Science</strong> at the <strong>University of Colombo School of Computing</strong>.</h4>
 
-<p align="center">📫 How to reach me <strong>piumisarangag@gmail.com</strong></p>
+  <p>🔍 I have a strong passion for both <strong>software development</strong> and <strong>software quality assurance</strong>, with a solid academic foundation in programming, system design, and problem-solving. My current role allows me to work closely with development teams, contributing to delivering high-quality and user-centric software products.</p>
+
+  <p>🌱 I'm always exploring new ways to enhance software reliability and usability. With a deep commitment to quality, I aim to make meaningful contributions to the tech industry by building robust and impactful digital solutions.</p>
+</div>
+
+<p align="center"><strong>📫 How to reach me: </strong>piumisarangag@gmail.com</p>
 
 <h3 align="center" style="color: #008080">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/Piumi Saranga Ganegoda" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piumi ganegoda" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/piumi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piumi" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/piumi-ganegoda" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Piumi Ganegoda" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/piumi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Piumi" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="center" style="color: #008080">Languages and Tools:</h3>
 
