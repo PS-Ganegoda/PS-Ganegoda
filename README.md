@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #000080">Hi 👋, I'm Piumi Saranga</h1>
-<h3 align="center" style="color: #000080">A passionate Frontend Developer & Quality Assurance Engineer from Sri Lanka</h3>
+<h3 align="center" style="color: #000080">A passionate Quality Assurance Engineer & Software Developer from Sri Lanka</h3>
 
 
 <p align="center">
@@ -8,13 +8,11 @@
 
 
 
-<h5 align="center">I am an undergraduate student at the University of Colombo School of Computing, pursuing a B.Sc. in Computer Science. Throughout my academic journey, I have built a strong foundation in software development, critical thinking, and problem-solving.
+<h4 align="center">👋 Hi there! I'm Piumi Ganegoda, an enthusiastic and detail-oriented Associate Quality Assurance Engineer at Eleos Web Tech, currently pursuing a B.Sc. in Computer Science at the University of Colombo School of Computing.
 
-Currently, I am gaining valuable industry exposure at Paraqum Technologies, where I serve as both a Software Engineering Intern and a Quality Assurance Intern. These dual roles have allowed me to experience the complete software development lifecycle — from designing user-friendly interfaces to ensuring software quality through meticulous testing and close collaboration with development teams.
+🔍 I have a strong passion for both software development and software quality assurance, with a solid academic foundation in programming, system design, and problem-solving. My current role allows me to work closely with development teams, contributing to delivering high-quality and user-centric software products.
 
-I have also been actively involved in several clubs and societies, holding various positions that have helped me expand my network and grow both personally and professionally. These experiences have enriched my leadership, communication, and teamwork skills.
-
-I am continuously seeking new opportunities to enhance my skill set and make a meaningful contribution to the IT industry. With a deep passion for Quality Assurance, I aspire to deliver software solutions that are not only innovative but also reliable and of the highest quality.</h5>
+🌱 I'm always exploring new ways to enhance software reliability and usability. With a deep commitment to quality, I aim to make meaningful contributions to the tech industry by building robust and impactful digital solutions.</h4>
 
 <p align="center">📫 How to reach me <strong>piumisarangag@gmail.com</strong></p>
 
@@ -32,6 +30,22 @@ I am continuously seeking new opportunities to enhance my skill set and make a m
 <h3 align="center" style="color: #008080">Languages and Tools:</h3>
 
 <p align="center">
+
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+             </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+                       </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
