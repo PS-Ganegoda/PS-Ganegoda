@@ -36,20 +36,7 @@ I validate complete business workflows by correlating **UI behaviour, API respon
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-#### 🧪 What I Do
 
-| Area | What I cover | Tools |
-|---|---|---|
-| 🖥️ **UI / E2E automation** | Reusable end-to-end suites for critical and regression-prone workflows | Playwright, JavaScript, TypeScript |
-| 🔌 **API testing** | Request/response payloads, status codes, business rules, error handling | Postman |
-| 🗄️ **Database validation** | Data integrity and consistency between UI, APIs and databases | PostgreSQL, pgAdmin, SQLite, MySQL |
-| 📱 **Mobile and POS** | Cross-device, screen-size and network testing; POS transaction validation | Manual, Appium |
-| ⚙️ **CI/CD** | Scheduled automated regression runs for earlier defect detection | GitLab CI/CD, GitLab Runners |
-| ⚡ **Performance** | Load and performance testing | JMeter, Artillery |
-| 🤖 **AI-assisted QA** | Test scenario generation, validating AI-powered app features | Atlassian Rovo AI, Claude |
-| 🐞 **Process** | Test planning, defect tracking, retesting, Agile/Scrum | Jira, Confluence, Trello |
-
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
 #### 🛠️ Tech Stack
 
@@ -81,12 +68,18 @@ I validate complete business workflows by correlating **UI behaviour, API respon
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-#### 🚀 Featured Projects
+#### 🧪 What I Do
 
-| Project | What it is | Stack |
+| Area | What I cover | Tools |
 |---|---|---|
-| **FawlFlow** <br/> Automated Testing Framework | Scalable Playwright framework with reusable components and structured suites for regression coverage. Includes an automated PDF test-report generator. Currently being extended with an agentic AI layer (Claude API and MCP) for scenario generation, result analysis and natural-language control of the test pipeline. | Playwright, TypeScript, Node.js, Chromium, pdf-lib |
-| **TryOnFit** <br/> E-commerce QA validation | End-to-end QA of authentication, product browsing, cart and order flows across UI, REST API and database layers, with defect logging, retesting and release-readiness checks. | Manual, Functional, UI, API and Database testing |
+| 🖥️ **UI / E2E automation** | Reusable end-to-end suites for critical and regression-prone workflows | Playwright, JavaScript, TypeScript |
+| 🔌 **API testing** | Request/response payloads, status codes, business rules, error handling | Postman |
+| 🗄️ **Database validation** | Data integrity and consistency between UI, APIs and databases | PostgreSQL, pgAdmin, SQLite, MySQL |
+| 📱 **Mobile and POS** | Cross-device, screen-size and network testing; POS transaction validation | Manual, Appium |
+| ⚙️ **CI/CD** | Scheduled automated regression runs for earlier defect detection | GitLab CI/CD, GitLab Runners |
+| ⚡ **Performance** | Load and performance testing | JMeter, Artillery |
+| 🤖 **AI-assisted QA** | Test scenario generation, validating AI-powered app features | Atlassian Rovo AI, Claude |
+| 🐞 **Process** | Test planning, defect tracking, retesting, Agile/Scrum | Jira, Confluence, Trello |
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
