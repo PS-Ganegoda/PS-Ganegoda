@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
+<img src="https://raw.githubusercontent.com/PS-Ganegoda/PS-Ganegoda/main/qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
 
 <br/>
 
@@ -19,9 +19,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PS-Ganegoda/PS-Ganegoda/main/qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
 #### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22" alt="wave"/> About Me
 
@@ -37,8 +35,6 @@ I validate complete business workflows by correlating **UI behaviour, API respon
 - 📫 Reach me: piumisarangag@gmail.com
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
-
-
 
 #### 🛠️ Tech Stack
 
