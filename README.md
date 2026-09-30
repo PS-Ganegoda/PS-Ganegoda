@@ -1,208 +1,166 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Piumi%20Saranga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Test%20Architect%20in%20the%20making&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Piumi%20Saranga%20Ganegoda&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Playwright%20%C2%B7%20API%20%C2%B7%20SQL%20%C2%B7%20CI%2FCD&descAlignY=60&descSize=15" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5C7&center=true&vCenter=true&width=720&lines=Breaking+software+so+users+never+have+to.;Playwright+%C2%B7+API+Testing+%C2%B7+SQL+%C2%B7+Performance;Building+scalable+test+automation+frameworks.;Exploring+AI-assisted+%26+agentic+testing+with+Claude+Code+%26+MCP." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=00E5C7&center=true&vCenter=true&width=640&lines=Associate+QA+Engineer+%40+Eleos+Web+Tech;Playwright+%2B+JavaScript+%2F+TypeScript+automation;REST+API+%C2%B7+Database+%C2%B7+Mobile+%C2%B7+POS+testing;ISTQB+CTFL+%26+CT-GenAI+certified;Building+agentic+AI+testing+with+Claude+API+%26+MCP" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img src="./assets/qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ps-ganegoda&style=for-the-badge&color=00b4a0&label=PROFILE+VIEWS)
-![Location](https://img.shields.io/badge/Sri_Lanka-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00E5C7)
-![Status](https://img.shields.io/badge/Open_to_Opportunities-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ps-ganegoda&style=flat-square&color=00b4a0&label=PROFILE+VIEWS)
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL-0A66C2?style=flat-square)
+![ISTQB CT-GenAI](https://img.shields.io/badge/ISTQB-CT--GenAI-00b4a0?style=flat-square)
+![Location](https://img.shields.io/badge/Sri_Lanka-0f2027?style=flat-square&logo=googlemaps&logoColor=00E5C7)
 
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave"/> About Me
+#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22" alt="wave"/> About Me
 
-I'm an **Associate QA Engineer at [Eleos Web Tech](https://eleosweb.com)** and a final-stretch **B.Sc. Computer Science** student at the **University of Colombo School of Computing (UCSC)**.
+I'm an **Associate QA Engineer at Eleos Web Tech** with over a year of hands-on experience testing **web, mobile and Point-of-Sale (POS) applications**. I specialise in **Playwright and JavaScript test automation**, backed by thorough manual testing, **REST API testing with Postman** and **database validation with PostgreSQL and SQL**.
 
-My day-to-day is quality for **retail POS and enterprise back-office platforms**, where a wrong number isn't just a bug, it's real money at a real checkout. That means testing across **UI, API and database layers**, plus compliance-sensitive flows like tax, invoicing and shift/cash reconciliation.
+I validate complete business workflows by correlating **UI behaviour, API responses and database records**, run scheduled **Playwright regression suites through GitLab CI/CD**, and work in Agile/Scrum teams. I hold a **B.Sc. in Computer Science from the University of Colombo School of Computing (UCSC)** and two ISTQB certifications, including **Testing with Generative AI**.
 
-```js
-const piumi = {
-  role: "QA Automation Engineer",
-  company: "Eleos Web Tech",
-  education: "B.Sc. Computer Science, UCSC",
-  focus: ["Test Automation", "API Testing", "Database Validation", "Performance Testing"],
-  currentlyLearning: ["Async JS deep-dive", "Advanced SQL", "JMeter correlation", "AI agents & MCP in testing"],
-  philosophy: "If it isn't automated, it isn't finished. If it isn't verified, it isn't done.",
-  reachMe: "piumisarangag@gmail.com",
-};
-```
+**Quick facts**
+- 🏢 Associate QA Engineer, Eleos Web Tech (July 2025 to present)
+- 🧑‍🎓 B.Sc. Computer Science, UCSC (2022 to 2025)
+- 🎯 Focus: Playwright automation, API and database testing, CI/CD regression
+- 🤖 Now building: an agentic AI testing layer with Claude API and MCP
+- 📫 Reach me: piumisarangag@gmail.com
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 🧪 What I Do
+#### 🧪 What I Do
 
-| Layer | What I test | Tools |
+| Area | What I cover | Tools |
 |---|---|---|
-| 🖥️ **UI / E2E** | Web dashboards & user journeys, Page Object Model, custom fixtures | Playwright, Selenium |
-| 🔌 **API** | REST endpoints, request chaining, auth, status & schema assertions | Postman, Playwright `request` |
-| 🗄️ **Database** | Data integrity, audit fields, transaction flags, joins & aggregates | MySQL, PostgreSQL |
-| ⚡ **Performance** | Load scenarios, throughput, error-rate & std-dev analysis | Apache JMeter |
-| 🐞 **Process** | Test planning, regression sign-off, bug reporting & retesting | Jira, Confluence, TestFlight |
+| 🖥️ **UI / E2E automation** | Reusable end-to-end suites for critical and regression-prone workflows | Playwright, JavaScript, TypeScript |
+| 🔌 **API testing** | Request/response payloads, status codes, business rules, error handling | Postman |
+| 🗄️ **Database validation** | Data integrity and consistency between UI, APIs and databases | PostgreSQL, pgAdmin, SQLite, MySQL |
+| 📱 **Mobile and POS** | Cross-device, screen-size and network testing; POS transaction validation | Manual, Appium |
+| ⚙️ **CI/CD** | Scheduled automated regression runs for earlier defect detection | GitLab CI/CD, GitLab Runners |
+| ⚡ **Performance** | Load and performance testing | JMeter, Artillery |
+| 🤖 **AI-assisted QA** | Test scenario generation, validating AI-powered app features | Atlassian Rovo AI, Claude |
+| 🐞 **Process** | Test planning, defect tracking, retesting, Agile/Scrum | Jira, Confluence, Trello |
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="55" height="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="55" height="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="55" height="55"/></a>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
+  <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
 </p>
 
-**Test Automation & Tooling**
+**Automation and testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-EE376A?style=flat-square&logo=appium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![Artillery](https://img.shields.io/badge/Artillery-000000?style=flat-square)
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Languages**
+**Web:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Databases, Web & Dev Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI-Assisted Testing**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![MCP](https://img.shields.io/badge/Playwright_MCP-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+**CI/CD and collaboration:** ![GitLab](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 🏗️ How I Structure Automation
+#### 🚀 Featured Projects
 
-```js
-// Page Object + custom fixture: readable specs, zero locator duplication
-class CheckoutPage {
-  constructor(page) {
-    this.page = page;
-    this.placeOrder = page.getByRole('button', { name: 'Place Order' });
-    this.confirmation = page.getByText('Order Confirmed');
-  }
-  async submit() { await this.placeOrder.click(); }
-}
-
-test('customer can place an order', async ({ checkoutPage }) => {
-  await checkoutPage.submit();
-  await expect(checkoutPage.confirmation).toBeVisible(); // auto-retrying, no sleeps
-});
-```
-
-**Principles I work by**
-- 🎯 Locate by **role and text**, never by brittle shared CSS classes
-- ⏱️ Rely on **auto-waiting assertions**, never fixed sleeps
-- 🔗 Chain API calls (create → extract id → verify) to set up and validate data fast
-- 🗄️ Trust the **database as the source of truth**, then verify the UI and API agree with it
-- 🤖 Treat AI-generated code like a junior engineer's PR: **review everything, run everything**
+| Project | What it is | Stack |
+|---|---|---|
+| **FawlFlow** <br/> Automated Testing Framework | Scalable Playwright framework with reusable components and structured suites for regression coverage. Includes an automated PDF test-report generator. Currently being extended with an agentic AI layer (Claude API and MCP) for scenario generation, result analysis and natural-language control of the test pipeline. | Playwright, TypeScript, Node.js, Chromium, pdf-lib |
+| **TryOnFit** <br/> E-commerce QA validation | End-to-end QA of authentication, product browsing, cart and order flows across UI, REST API and database layers, with defect logging, retesting and release-readiness checks. | Manual, Functional, UI, API and Database testing |
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 📈 Currently Levelling Up
+#### 📈 Currently Levelling Up
 
-- [x] Playwright POM + custom fixtures
-- [x] JMeter baseline load tests and JTL analysis
-- [x] SQL: `LEFT JOIN` + aggregates, `GROUP BY`/`HAVING`, correlated `NOT EXISTS`
-- [ ] Promises & async concurrency (`Promise.all`, `allSettled`)
-- [ ] JMeter correlation with JSON Extractor and timers
-- [ ] Postman chaining, Newman and CI runs
-- [ ] Playwright MCP and agentic test generation
-- [ ] Authoring custom AI "skills" for QA workflows (bug-report formatting, etc.)
+- [ ] Advanced **Playwright automation**: framework design, reusable components, CI-ready suites
+- [ ] **Agentic AI testing** with Claude API and Model Context Protocol (MCP)
+- [ ] **AI-assisted test generation** and automated test result analysis
+- [ ] Scaling **GitLab CI/CD** pipelines for continuous regression coverage
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 📊 GitHub Stats
+#### 🏆 Achievements and Certifications
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ps-ganegoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5C7&icon_color=00E5C7&text_color=c9d1d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ganegoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5C7&text_color=c9d1d9" alt="Top languages" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ISTQB®-Certified_Tester-0A66C2?style=for-the-badge" alt="ISTQB CTFL"/><br/>
+      <b>Foundation Level (CTFL)</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ISTQB®-Certified_Tester-00b4a0?style=for-the-badge" alt="ISTQB CT-GenAI"/><br/>
+      <b>Testing with Generative AI (CT-GenAI)</b>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ps-ganegoda&theme=tokyonight&hide_border=true&background=0f2027&ring=00E5C7&fire=00E5C7&currStreakLabel=00E5C7" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ps-ganegoda&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00E5C7&line=00E5C7&point=ffffff" alt="Activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ps-ganegoda&theme=github_dark" alt="Profile details" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ps-ganegoda&theme=github_dark" alt="Repos per language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ps-ganegoda&theme=github_dark" alt="Most commit language" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ps-ganegoda&theme=github_dark&utcOffset=5.5" alt="Productive time" width="60%"/>
+<sub>Also completed: Introduction to MCP and Introduction to Agent Skills (Anthropic) · Advanced Playwright (Test Automation University) · Agile Testing (LinkedIn Learning) · CI/CD for Beginners and Getting Started with Jenkins (Simplilearn)</sub>
 
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-## 🏆 Achievements
+#### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ps-ganegoda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" width="100%"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=ps-ganegoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5C7&icon_color=00E5C7&text_color=c9d1d9" alt="GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ganegoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00E5C7&text_color=c9d1d9" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=ps-ganegoda&theme=tokyonight&hide_border=true&background=0f2027&ring=00E5C7&fire=00E5C7&currStreakLabel=00E5C7" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ps-ganegoda&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00E5C7&line=00E5C7&point=ffffff" alt="Activity graph" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 🐍 Contribution Snake
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ps-ganegoda/ps-ganegoda/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm always happy to talk test automation, API and database testing, or how AI is changing QA.
+#### 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/piumi-ganegoda"><img src="https://img.shields.io/badge/LinkedIn-Piumi_Ganegoda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://piumisaranga.vercel.app"><img src="https://img.shields.io/badge/Portfolio-piumisaranga.vercel.app-00b4a0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:piumisarangag@gmail.com"><img src="https://img.shields.io/badge/Email-piumisarangag@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ps-ganegoda"><img src="https://img.shields.io/badge/GitHub-ps--ganegoda-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<i>"Quality is not an act, it is a habit."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
