@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
+<img src="./qa-tester.svg" width="80%" alt="QA engineer running automated tests and squashing a bug"/>
 
 <br/>
 
