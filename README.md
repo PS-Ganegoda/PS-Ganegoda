@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Piumi%20Saranga%20Ganegoda&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Playwright%20%C2%B7%20API%20%C2%B7%20SQL%20%C2%B7%20CI%2FCD&descAlignY=60&descSize=15" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Piumi%20Saranga%20Ganegoda&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20Engineer%20%7C%20ISTQB%C2%AE%20CTFL%20%7C%20ISTQB%C2%AE%20CT-GenAI%20%7C%20Test%20Automation&descAlignY=60&descSize=15" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=00E5C7&center=true&vCenter=true&width=640&lines=Associate+QA+Engineer+%40+Eleos+Web+Tech;Playwright+%2B+JavaScript+%2F+TypeScript+automation;REST+API+%C2%B7+Database+%C2%B7+Mobile+%C2%B7+POS+testing;ISTQB+CTFL+%26+CT-GenAI+certified;Building+agentic+AI+testing+with+Claude+API+%26+MCP" alt="Typing SVG" />
