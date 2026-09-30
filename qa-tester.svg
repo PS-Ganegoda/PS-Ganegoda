@@ -94,4 +94,42 @@
 
 <!-- plant -->
 <path d="M262 322 L270 296 L302 296 L310 322 Z" fill="#c2694a"/>
-<rect x="266" y="290" width="40" height="8"
+<rect x="266" y="290" width="40" height="8" rx="3" fill="#d27a5a"/>
+<g transform="translate(286,290)"><ellipse cx="-10" cy="-18" rx="7" ry="18" transform="rotate(-25)" fill="#3fae6a"/><ellipse cx="0" cy="-22" rx="7" ry="20" fill="#2e9a58"/><ellipse cx="11" cy="-16" rx="7" ry="17" transform="rotate(28)" fill="#4cc17a"/></g>
+
+<!-- mug -->
+<rect x="600" y="294" width="30" height="28" rx="6" fill="#f2f5f7"/>
+<path d="M630 301 q13 0 13 10 q0 10 -13 10" fill="none" stroke="#f2f5f7" stroke-width="4"/>
+<rect x="600" y="294" width="30" height="8" rx="4" fill="#00b4a0" opacity=".9"/>
+<path class="steam" d="M609 286 q-5 -8 0 -14" fill="none" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/>
+<path class="steam2" d="M620 286 q5 -8 0 -14" fill="none" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/>
+
+<!-- girl -->
+<g class="breath">
+ <path d="M394 150 C390 90 510 90 506 150 L510 250 C500 262 488 262 484 250 L416 250 C412 262 400 262 390 250 Z" fill="#2b1b17"/>
+ <path d="M366 326 C366 262 396 226 450 226 C504 226 534 262 534 326 Z" fill="url(#shirt)"/>
+ <rect x="434" y="188" width="32" height="42" rx="12" fill="#e9b88f"/>
+ <path d="M424 226 L450 252 L476 226 Z" fill="#f2c6a0"/>
+ <ellipse cx="450" cy="150" rx="41" ry="47" fill="#f2c6a0"/>
+ <ellipse cx="423" cy="166" rx="7" ry="4.5" fill="#f08a7e" opacity=".35"/><ellipse cx="477" cy="166" rx="7" ry="4.5" fill="#f08a7e" opacity=".35"/>
+ <path d="M408 146 C404 100 440 92 470 98 C494 104 498 128 492 150 C480 124 444 120 408 146 Z" fill="#2b1b17"/>
+ <path d="M424 140 q9 -5 18 -1 M458 139 q9 -4 18 1" fill="none" stroke="#2b1b17" stroke-width="2.4" stroke-linecap="round"/>
+ <ellipse class="blink" cx="433" cy="154" rx="3.4" ry="4.4" fill="#1b1b1b"/><ellipse class="blink" cx="467" cy="154" rx="3.4" ry="4.4" fill="#1b1b1b"/>
+ <rect x="418" y="142" width="30" height="24" rx="9" fill="#00E5C7" fill-opacity=".10" stroke="#00E5C7" stroke-width="2.4"/>
+ <rect x="452" y="142" width="30" height="24" rx="9" fill="#00E5C7" fill-opacity=".10" stroke="#00E5C7" stroke-width="2.4"/>
+ <path d="M448 152 L452 152" stroke="#00E5C7" stroke-width="2.4"/>
+ <path d="M450 160 q-3 6 1 7" fill="none" stroke="#d09a78" stroke-width="1.8" stroke-linecap="round"/>
+ <path d="M438 176 Q450 187 462 176" fill="none" stroke="#b5533f" stroke-width="2.6" stroke-linecap="round"/>
+ <path d="M404 140 C404 84 496 84 496 140" fill="none" stroke="#203a43" stroke-width="7" stroke-linecap="round"/>
+ <rect x="394" y="138" width="18" height="34" rx="9" fill="#00E5C7"/><rect x="488" y="138" width="18" height="34" rx="9" fill="#00E5C7"/>
+ <rect x="397" y="144" width="8" height="22" rx="4" fill="#0f7f73" opacity=".6"/><rect x="495" y="144" width="8" height="22" rx="4" fill="#0f7f73" opacity=".6"/>
+</g>
+<path d="M384 252 Q350 280 366 312" stroke="#00a496" stroke-width="24" stroke-linecap="round" fill="none"/>
+<path d="M516 252 Q550 280 534 312" stroke="#00a496" stroke-width="24" stroke-linecap="round" fill="none"/>
+<rect x="374" y="236" width="152" height="82" rx="9" fill="url(#lap)"/>
+<circle cx="450" cy="277" r="9" fill="#9fb3bb"/>
+<path d="M444 277 q6 -8 12 0" fill="none" stroke="#dfe7ec" stroke-width="2"/>
+<rect x="358" y="316" width="184" height="8" rx="4" fill="#8aa0a9"/>
+<g class="handL"><circle cx="372" cy="314" r="10" fill="#f2c6a0"/></g>
+<g class="handR"><circle cx="528" cy="314" r="10" fill="#f2c6a0"/></g>
+</svg>
